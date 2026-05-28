@@ -1,0 +1,10 @@
+{
+  "name": "LOL App",
+  "short_name": "LOL App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f59e0b",
+  "orientation": "any",
+  "description": "Random funny memes to make you laugh every day!"
+}
