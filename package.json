@@ -8,7 +8,6 @@
     "dev": "pnpm --filter @lol-app/web dev",
     "build": "pnpm --filter @lol-app/web build",
     "preview": "pnpm --filter @lol-app/web preview",
-    "typecheck": "pnpm --filter @lol-app/web exec tsc -b",
-    "test": "pnpm --filter @lol-app/web test"
+    "typecheck": "pnpm --filter @lol-app/web exec tsc -b"
   }
 }
